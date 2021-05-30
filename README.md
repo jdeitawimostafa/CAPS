@@ -1,7 +1,10 @@
 # CAPS
 
 **auhtor** : mostafajdeitawi
-[PR]()
+
+[repoLink](https://github.com/jdeitawimostafa/CAPS)
+[PR](https://github.com/jdeitawimostafa/CAPS/pull/1)
+
 
 ## **Setup**
         * .env requirements
